@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    Hello
+  <div id="test">
+    List 123
   </div>
 </template>
 
@@ -10,7 +10,7 @@ import { Component, Vue } from 'vue-property-decorator';
 @Component({
   components: {}
 })
-export default class App extends Vue {
+export default class List extends Vue {
 }
 </script>
 
